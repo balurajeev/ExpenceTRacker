@@ -10,10 +10,12 @@ namespace XTRA.Application.Interface
     public interface IStatementsRepository
     {
 
-        Task AddAsync(Statements reminder, CancellationToken cancellationToken);
+        Task AddAsync(List<Statements> BankTRansactions, CancellationToken cancellationToken);
+        Task<List<Statements>?> GetAsync(string startDate,string endDate, CancellationToken cancellationToken);
         Task<Statements?> GetByIdAsync(int ID, CancellationToken cancellationToken);        
         Task RemovebyIDAsync(int ID, CancellationToken cancellationToken);
         Task RemoveRangeAsync(List<int> IDs, CancellationToken cancellationToken);
-        Task UpdateAsync(int ID, CancellationToken cancellationToken);
+        Task UpdateAsync(Statements bankstatement, CancellationToken cancellationToken);
+        Task RemoveRangeAsync(string startDate, string endDate, CancellationToken cancellationToken);
     }
 }
