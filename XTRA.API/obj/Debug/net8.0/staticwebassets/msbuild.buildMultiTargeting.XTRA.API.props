@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\XTRA.API.props" />
+</Project>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyo63bJyfEq6/dkKxhwVlF058h/IZLU3YJ4+vDMAg/jQgHmtNGY3rMpOT2wMN+rHUz3qlK7EVxoGSKfHeXBgog==",
+  "success": true,
+  "projectFilePath": "C:\\ActualRepo\\Repo\\XTRA.API\\XTRA.Application\\XTRA.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Balu\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\Balu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
+    "C:\\Users\\Balu\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Balu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Balu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\ActualRepo\XTRA.API\XTRA.Presentation\bin\Debug\net8.0\XTRA.Presentation.deps.json
+C:\ActualRepo\XTRA.API\XTRA.Presentation\bin\Debug\net8.0\XTRA.Presentation.dll
+C:\ActualRepo\XTRA.API\XTRA.Presentation\bin\Debug\net8.0\XTRA.Presentation.pdb
+C:\ActualRepo\XTRA.API\XTRA.Presentation\bin\Debug\net8.0\XTRA.Application.dll
+C:\ActualRepo\XTRA.API\XTRA.Presentation\bin\Debug\net8.0\XTRA.Domain.dll
+C:\ActualRepo\XTRA.API\XTRA.Presentation\bin\Debug\net8.0\XTRA.Application.pdb
+C:\ActualRepo\XTRA.API\XTRA.Presentation\bin\Debug\net8.0\XTRA.Domain.pdb
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\XTRA.Presentation.csproj.AssemblyReference.cache
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\XTRA.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\XTRA.Presentation.AssemblyInfoInputs.cache
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\XTRA.Presentation.AssemblyInfo.cs
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\XTRA.Presentation.csproj.CoreCompileInputs.cache
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\XTRA.Pre.77A5F114.Up2Date
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\XTRA.Presentation.dll
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\refint\XTRA.Presentation.dll
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\XTRA.Presentation.pdb
+C:\ActualRepo\XTRA.API\XTRA.Presentation\obj\Debug\net8.0\ref\XTRA.Presentation.dll

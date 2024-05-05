@@ -1,0 +1,11 @@
+C:\ActualRepo\XTRA.API\XTRA.Domain\bin\Debug\net8.0\XTRA.Domain.deps.json
+C:\ActualRepo\XTRA.API\XTRA.Domain\bin\Debug\net8.0\XTRA.Domain.dll
+C:\ActualRepo\XTRA.API\XTRA.Domain\bin\Debug\net8.0\XTRA.Domain.pdb
+C:\ActualRepo\XTRA.API\XTRA.Domain\obj\Debug\net8.0\XTRA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ActualRepo\XTRA.API\XTRA.Domain\obj\Debug\net8.0\XTRA.Domain.AssemblyInfoInputs.cache
+C:\ActualRepo\XTRA.API\XTRA.Domain\obj\Debug\net8.0\XTRA.Domain.AssemblyInfo.cs
+C:\ActualRepo\XTRA.API\XTRA.Domain\obj\Debug\net8.0\XTRA.Domain.csproj.CoreCompileInputs.cache
+C:\ActualRepo\XTRA.API\XTRA.Domain\obj\Debug\net8.0\XTRA.Domain.dll
+C:\ActualRepo\XTRA.API\XTRA.Domain\obj\Debug\net8.0\refint\XTRA.Domain.dll
+C:\ActualRepo\XTRA.API\XTRA.Domain\obj\Debug\net8.0\XTRA.Domain.pdb
+C:\ActualRepo\XTRA.API\XTRA.Domain\obj\Debug\net8.0\ref\XTRA.Domain.dll

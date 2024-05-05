@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ActualRepo\\XTRA.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E86F63-D2FC-40EB-8028-80CF35200570}|XTRA.Infrastructure\\XTRA.Infrastructure.csproj|c:\\actualrepo\\xtra.api\\xtra.infrastructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E86F63-D2FC-40EB-8028-80CF35200570}|XTRA.Infrastructure\\XTRA.Infrastructure.csproj|solutionrelative:xtra.infrastructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E86F63-D2FC-40EB-8028-80CF35200570}|XTRA.Infrastructure\\XTRA.Infrastructure.csproj|c:\\actualrepo\\xtra.api\\xtra.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E86F63-D2FC-40EB-8028-80CF35200570}|XTRA.Infrastructure\\XTRA.Infrastructure.csproj|solutionrelative:xtra.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BD81D5-4041-4FF2-96FC-19B96DABBE8B}|XTRA.Application\\XTRA.Application.csproj|c:\\actualrepo\\xtra.api\\xtra.application\\interface\\istatementsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BD81D5-4041-4FF2-96FC-19B96DABBE8B}|XTRA.Application\\XTRA.Application.csproj|solutionrelative:xtra.application\\interface\\istatementsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E86F63-D2FC-40EB-8028-80CF35200570}|XTRA.Infrastructure\\XTRA.Infrastructure.csproj|c:\\actualrepo\\xtra.api\\xtra.infrastructure\\repository\\statementsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E86F63-D2FC-40EB-8028-80CF35200570}|XTRA.Infrastructure\\XTRA.Infrastructure.csproj|solutionrelative:xtra.infrastructure\\repository\\statementsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E86F63-D2FC-40EB-8028-80CF35200570}|XTRA.Infrastructure\\XTRA.Infrastructure.csproj|c:\\actualrepo\\xtra.api\\xtra.infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E86F63-D2FC-40EB-8028-80CF35200570}|XTRA.Infrastructure\\XTRA.Infrastructure.csproj|solutionrelative:xtra.infrastructure\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BD81D5-4041-4FF2-96FC-19B96DABBE8B}|XTRA.Application\\XTRA.Application.csproj|c:\\actualrepo\\xtra.api\\xtra.application\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BD81D5-4041-4FF2-96FC-19B96DABBE8B}|XTRA.Application\\XTRA.Application.csproj|solutionrelative:xtra.application\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BD81D5-4041-4FF2-96FC-19B96DABBE8B}|XTRA.Application\\XTRA.Application.csproj|c:\\actualrepo\\xtra.api\\xtra.application\\xtra.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08BD81D5-4041-4FF2-96FC-19B96DABBE8B}|XTRA.Application\\XTRA.Application.csproj|solutionrelative:xtra.application\\xtra.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA63A5F-66BE-4E98-A826-A06490EAC16C}|XTRA.Domain\\XTRA.Domain.csproj|c:\\actualrepo\\xtra.api\\xtra.domain\\entity\\statements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA63A5F-66BE-4E98-A826-A06490EAC16C}|XTRA.Domain\\XTRA.Domain.csproj|solutionrelative:xtra.domain\\entity\\statements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA63A5F-66BE-4E98-A826-A06490EAC16C}|XTRA.Domain\\XTRA.Domain.csproj|c:\\actualrepo\\xtra.api\\xtra.domain\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA63A5F-66BE-4E98-A826-A06490EAC16C}|XTRA.Domain\\XTRA.Domain.csproj|solutionrelative:xtra.domain\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Infrastructure\\DBcontext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "XTRA.Infrastructure\\DBcontext\\AppDbContext.cs",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Infrastructure\\DBcontext\\AppDbContext.cs",
+              "RelativeToolTip": "XTRA.Infrastructure\\DBcontext\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:51:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Infrastructure\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "XTRA.Infrastructure\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Infrastructure\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "XTRA.Infrastructure\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:46:32.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatementsRepository.cs",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Infrastructure\\Repository\\StatementsRepository.cs",
+              "RelativeDocumentMoniker": "XTRA.Infrastructure\\Repository\\StatementsRepository.cs",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Infrastructure\\Repository\\StatementsRepository.cs",
+              "RelativeToolTip": "XTRA.Infrastructure\\Repository\\StatementsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:46:12.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Application\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "XTRA.Application\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Application\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "XTRA.Application\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:44:41.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStatementsRepository.cs",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Application\\Interface\\IStatementsRepository.cs",
+              "RelativeDocumentMoniker": "XTRA.Application\\Interface\\IStatementsRepository.cs",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Application\\Interface\\IStatementsRepository.cs",
+              "RelativeToolTip": "XTRA.Application\\Interface\\IStatementsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:44:04.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XTRA.Application",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Application\\XTRA.Application.csproj",
+              "RelativeDocumentMoniker": "XTRA.Application\\XTRA.Application.csproj",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Application\\XTRA.Application.csproj",
+              "RelativeToolTip": "XTRA.Application\\XTRA.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T18:37:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Domain\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "XTRA.Domain\\Entity\\Category.cs",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Domain\\Entity\\Category.cs",
+              "RelativeToolTip": "XTRA.Domain\\Entity\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:29:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Statements.cs",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Domain\\Entity\\Statements.cs",
+              "RelativeDocumentMoniker": "XTRA.Domain\\Entity\\Statements.cs",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Domain\\Entity\\Statements.cs",
+              "RelativeToolTip": "XTRA.Domain\\Entity\\Statements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:28:48.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\ActualRepo\\XTRA.API\\XTRA.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "XTRA.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\ActualRepo\\XTRA.API\\XTRA.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "XTRA.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:06:43.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

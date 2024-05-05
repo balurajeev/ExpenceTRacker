@@ -1,0 +1,17 @@
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\bin\Debug\net8.0\XTRA.Infrastructure.deps.json
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\bin\Debug\net8.0\XTRA.Infrastructure.dll
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\bin\Debug\net8.0\XTRA.Infrastructure.pdb
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\bin\Debug\net8.0\XTRA.Application.dll
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\bin\Debug\net8.0\XTRA.Domain.dll
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\bin\Debug\net8.0\XTRA.Application.pdb
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\bin\Debug\net8.0\XTRA.Domain.pdb
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\XTRA.Infrastructure.csproj.AssemblyReference.cache
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\XTRA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\XTRA.Infrastructure.AssemblyInfoInputs.cache
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\XTRA.Infrastructure.AssemblyInfo.cs
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\XTRA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\XTRA.Inf.BD583E59.Up2Date
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\XTRA.Infrastructure.dll
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\refint\XTRA.Infrastructure.dll
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\XTRA.Infrastructure.pdb
+C:\ActualRepo\XTRA.API\XTRA.Infrastructure\obj\Debug\net8.0\ref\XTRA.Infrastructure.dll

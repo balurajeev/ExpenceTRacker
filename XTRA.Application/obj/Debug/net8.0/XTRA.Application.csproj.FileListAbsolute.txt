@@ -1,0 +1,15 @@
+C:\ActualRepo\XTRA.API\XTRA.Application\bin\Debug\net8.0\XTRA.Application.deps.json
+C:\ActualRepo\XTRA.API\XTRA.Application\bin\Debug\net8.0\XTRA.Application.dll
+C:\ActualRepo\XTRA.API\XTRA.Application\bin\Debug\net8.0\XTRA.Application.pdb
+C:\ActualRepo\XTRA.API\XTRA.Application\bin\Debug\net8.0\XTRA.Domain.dll
+C:\ActualRepo\XTRA.API\XTRA.Application\bin\Debug\net8.0\XTRA.Domain.pdb
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\XTRA.Application.csproj.AssemblyReference.cache
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\XTRA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\XTRA.Application.AssemblyInfoInputs.cache
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\XTRA.Application.AssemblyInfo.cs
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\XTRA.Application.csproj.CoreCompileInputs.cache
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\XTRA.App.FF9C3FAB.Up2Date
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\XTRA.Application.dll
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\refint\XTRA.Application.dll
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\XTRA.Application.pdb
+C:\ActualRepo\XTRA.API\XTRA.Application\obj\Debug\net8.0\ref\XTRA.Application.dll
