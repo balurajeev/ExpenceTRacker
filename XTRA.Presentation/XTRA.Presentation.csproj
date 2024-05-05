@@ -14,4 +14,8 @@
     <ProjectReference Include="..\XTRA.Application\XTRA.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Logic\" />
+  </ItemGroup>
+
 </Project>

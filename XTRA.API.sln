@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTRA.API", "XTRA.API\XTRA.API.csproj", "{94F1B75C-BA75-4F3E-87B0-BDD99ACD2999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XTRA.API", "XTRA.API\XTRA.API.csproj", "{94F1B75C-BA75-4F3E-87B0-BDD99ACD2999}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTRA.Domain", "XTRA.Domain\XTRA.Domain.csproj", "{ABA63A5F-66BE-4E98-A826-A06490EAC16C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XTRA.Domain", "XTRA.Domain\XTRA.Domain.csproj", "{ABA63A5F-66BE-4E98-A826-A06490EAC16C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTRA.Application", "XTRA.Application\XTRA.Application.csproj", "{08BD81D5-4041-4FF2-96FC-19B96DABBE8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XTRA.Application", "XTRA.Application\XTRA.Application.csproj", "{08BD81D5-4041-4FF2-96FC-19B96DABBE8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTRA.Infrastructure", "XTRA.Infrastructure\XTRA.Infrastructure.csproj", "{A8E86F63-D2FC-40EB-8028-80CF35200570}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XTRA.Infrastructure", "XTRA.Infrastructure\XTRA.Infrastructure.csproj", "{A8E86F63-D2FC-40EB-8028-80CF35200570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTRA.Presentation", "XTRA.Presentation\XTRA.Presentation.csproj", "{991C5F20-202D-452E-BDC2-D13F099A027C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XTRA.Presentation", "XTRA.Presentation\XTRA.Presentation.csproj", "{991C5F20-202D-452E-BDC2-D13F099A027C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E0DA7989-C073-4472-A1BB-CA87BCD34531}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
